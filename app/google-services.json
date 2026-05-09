@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1078361548867",
+    "project_id": "yatri-mitra-42247",
+    "storage_bucket": "yatri-mitra-42247.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078361548867:android:4215b98799f316415f0cf6",
+        "android_client_info": {
+          "package_name": "com.example.yatrimitra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhYx00uHzTIBQTOImOs5vPPrxZDC_XP6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
